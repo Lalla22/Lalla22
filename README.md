@@ -8,7 +8,7 @@ You can explore my projects, ongoing activities, or documentation related to the
 - Check out my [Kaggle](https://www.kaggle.com/lallasankara) to see sata sets I'm anayzling and exploring.
 
 ## 👩‍💻 Skill set and tool box 
-- Programming Languages: Java, Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly)
+- Programming Languages: Java, Python (Pandas, Numpy, Matplotlib, Seaborn, Plotly, Tensorflow)
 - SaaS Applications: ServiceNow, Power BI, Jupyter Notebook Platforms
 - Tools & Frameworks: Agile Methodologies, Scrum Framework, Database Management, Excel, Machine Learning, AWS, Postman API, Data Structures, Algorithms, AI, SDLC
 - Soft & Analytical Skills: Mentoring, Team Building, Data Analysis & Analytics, IT Strategy, Community Outreach, Strategic Planning, Project Management, IT Documentation
@@ -28,5 +28,6 @@ You can explore my projects, ongoing activities, or documentation related to the
 
 ## 📫 Contact me
 Email: lallasankara@gmail.com
+
 [Linkedln](https://www.linkedin.com/in/lallasankara/)
 
