@@ -27,15 +27,14 @@ You can explore my projects, ongoing activities, or documentation related to the
 - Professional Scrum Master II Certification
 
 ## 📫 Contact me
-Email: lallasankara@gmail.com
+- Email: lallasankara@gmail.com
 
-[Linkedln](https://www.linkedin.com/in/lallasankara/)
+- [Linkedln](https://www.linkedin.com/in/lallasankara/)
 
 ---
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lalla22&theme=dark&background=000000)](https://git.io/streak-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalla22&layout=compact&theme=vision-friendly-dark)]
 
 
