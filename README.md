@@ -34,7 +34,6 @@ You can explore my projects, ongoing activities, or documentation related to the
 ---
 
 ### :fire: My Stats :
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Lalla22&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lalla22&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lalla22&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
